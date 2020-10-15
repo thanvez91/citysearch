@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dropdown-Wrapper {
+  text-decoration: none;
+  list-style: none;
+  width: 200px;
+  margin: 0 auto;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.dropdown-list {
+  padding: 5px;
+  background: #dddddd;
+  margin: 2px;
+}
+
+.search-city {
+  margin-top: 10px;
+}
